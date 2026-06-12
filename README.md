@@ -1,6 +1,10 @@
 # Lean-Storytelling-Canvas
 The open/free/libre canvas for Lean Storytelling
 
+## License
+
+CC by-sa
+
 ## Text
 
 - Context
@@ -16,7 +20,11 @@ The open/free/libre canvas for Lean Storytelling
 
 ## PDF
 
+[Lean Storytelling Canvas.pdf](https://github.com/Lean-Storytelling/Lean-Storytelling-Canvas/blob/main/Lean%20Storytelling%20Canvas.pdf)
+
 ## SVG
+
+[Lean%20Storytelling%20Canvas.svg](https://github.com/Lean-Storytelling/Lean-Storytelling-Canvas/blob/main/Lean%20Storytelling%20Canvas.svg)
 
 ## Google Drawing
 
