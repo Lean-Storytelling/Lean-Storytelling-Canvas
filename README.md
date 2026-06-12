@@ -24,7 +24,7 @@ CC by-sa
 
 ## SVG
 
-[Lean%20Storytelling%20Canvas.svg](https://github.com/Lean-Storytelling/Lean-Storytelling-Canvas/blob/main/Lean%20Storytelling%20Canvas.svg)
+[Lean Storytelling Canvas.svg](https://github.com/Lean-Storytelling/Lean-Storytelling-Canvas/blob/main/Lean%20Storytelling%20Canvas.svg)
 
 ## Google Drawing
 
