@@ -18,6 +18,8 @@ CC by-sa
 
 ## OpenDocumet Format
 
+[Lean Storytelling Canvas.odg](https://github.com/Lean-Storytelling/Lean-Storytelling-Canvas/blob/main/Lean%20Storytelling%20Canvas.odg)
+
 ## PDF
 
 [Lean Storytelling Canvas.pdf](https://github.com/Lean-Storytelling/Lean-Storytelling-Canvas/blob/main/Lean%20Storytelling%20Canvas.pdf)
