@@ -1,11 +1,29 @@
 # Lean-Storytelling-Canvas
 The open/free/libre canvas for Lean Storytelling
 
-Context
-Target
-Empathy
-Problem
-Consequences
-Solution
-Benefits
-Why
+## Text
+
+- Context
+- Target
+- Empathy
+- Problem
+- Consequences
+- Solution
+- Benefits
+- Why
+
+## OpenDocumet Format
+
+## PDF
+
+## Miro
+
+## Mural
+
+## Prompts
+
+## Skills
+
+## Requests
+
+What other formats or shapes do you need?
