@@ -5,6 +5,10 @@ The open/free/libre canvas for Lean Storytelling
 
 CC by-sa
 
+## Image preview
+
+![Lean Storytelling Canvas.png](https://github.com/Lean-Storytelling/Lean-Storytelling-Canvas/blob/main/Lean%20Storytelling%20Canvas.png)
+
 ## Text
 
 - Context
