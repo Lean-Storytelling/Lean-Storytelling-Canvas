@@ -28,6 +28,10 @@ CC by-sa
 
 [Lean Storytelling Canvas.svg](https://github.com/Lean-Storytelling/Lean-Storytelling-Canvas/blob/main/Lean%20Storytelling%20Canvas.svg)
 
+## PNG
+
+[Lean Storytelling Canvas.png](https://github.com/Lean-Storytelling/Lean-Storytelling-Canvas/blob/main/Lean%20Storytelling%20Canvas.png)
+
 ## Google Drawing
 
 Lean Storytelling Canvas TEMPLATE (please copy, do not edit)
