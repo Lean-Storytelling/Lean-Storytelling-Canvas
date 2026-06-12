@@ -16,6 +16,13 @@ The open/free/libre canvas for Lean Storytelling
 
 ## PDF
 
+## SVG
+
+## Google Drawing
+
+Lean Storytelling Canvas TEMPLATE (please copy, do not edit)
+https://docs.google.com/drawings/d/1_g0pvW5rf7fiOWVbW1dQeGQmZS-vaWa43gkPnblN7bo/edit
+
 ## Miro
 
 ## Mural
